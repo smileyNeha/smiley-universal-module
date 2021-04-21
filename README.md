@@ -2,7 +2,7 @@
 ##added new tweaks
 #fix bugs.
 
-# introduce Smiley v9 module for sefty perpose and sefty performance 
+# introduce Smiley v10  module for sefty perpose and sefty performance 
 # Added the Gpu & Cpu tweaks (2) veriant
 
 # Module by Smiley_18 / Neha Agrawal
@@ -14,6 +14,7 @@
                      
                      
                   ( Release Schedule Only )
+        v9 my channel uploaded checkout now
  ## (21.3.4.49.6) 
 >> Schedule Improve the performance and battery efficiency
 >> improved Network speed + VPN domain 
