@@ -57,7 +57,6 @@ persist.sys.NV_STEREOSEPCHG=0
 persist.sys.NV_STEREOSEP=20
 debug.sf.hw=1
 debug.composition.type=c2d
-debug.performance.tuning=1
 debug.enabletr=true
 debug.qctwa.preservebuf=1
 dev.pm.dyn_samplingrate=1
