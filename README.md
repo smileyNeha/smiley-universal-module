@@ -1,9 +1,10 @@
-#####   Smiley V10 A.I.  #######
-##added new tweaks
+#Smiley V10 A.I.
+added new tweaks
+
 #fix bugs.
 
-# introduce Smiley v10  module for sefty perpose and sefty performance 
-# Added the Gpu & Cpu tweaks (2) veriant
+ introduce Smiley v10  module for sefty perpose and sefty performance 
+ Added the Gpu & Cpu tweaks (2) veriant
 
 # Module by Smiley_18 / Neha Agrawal
 
@@ -41,24 +42,24 @@
                  - my private tester team 🥰
 >>>>>>>>>>>>>><<<<<<<<<<<<<<
  
-##  schedutil purpose module EAS based.. for universal devices.
+  schedutil purpose module EAS based.. for universal devices.
 
-## smiley Original founder this mod and creating magisk manager
+ smiley Original founder this mod and creating magisk manager
 
 ## Thanks-
 
-# Module by @smiley_18 /Neha Agarwal
+##Module by @smiley_18 /Neha Agarwal
 
-# Thanks to Eliza , Sameena , Krishna and my best tester..
+#Thanks to Eliza , Sameena , Krishna and my best tester..
 
-## Thanks to Dave - @Asallamualaikum_bang_dave
+ Thanks to Dave - @Asallamualaikum_bang_dave
    For help to fixed xiaomi mediatek device ram management and performance improvement.. 
    
-### Interactive based module (1)- The best active performance and battery backup. 
+ Interactive based module (1)- The best active performance and battery backup. 
 
-## Schedutile based module (2) - the best active performance and battery backup
+ Schedutile based module (2) - the best active performance and battery backup
 
-## Thanks to OnePlus community - Private hidden privency added.
+ Thanks to OnePlus community - Private hidden privency added.
    
 ## Thanks to Magisk_dev. - To support License and privency
     magisk 22.0 ( root )
